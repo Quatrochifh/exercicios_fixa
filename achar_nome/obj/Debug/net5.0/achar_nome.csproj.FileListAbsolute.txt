@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\achar_nome.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\achar_nome.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\achar_nome.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\achar_nome.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\achar_nome.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\ref\achar_nome.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\bin\Debug\net5.0\achar_nome.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\ref\achar_nome.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\achar_nome\obj\Debug\net5.0\achar_nome.genruntimeconfig.cache

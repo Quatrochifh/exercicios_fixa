@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ao_contrario.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ao_contrario.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ao_contrario.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ao_contrario.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ao_contrario.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ref\ao_contrario.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\bin\Debug\net5.0\ao_contrario.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ref\ao_contrario.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\ao_contrario\obj\Debug\net5.0\ao_contrario.genruntimeconfig.cache

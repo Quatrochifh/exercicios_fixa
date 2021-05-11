@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\Ler_ano.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\Ler_ano.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\Ler_ano.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\Ler_ano.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\Ler_ano.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\ref\Ler_ano.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\bin\Debug\net5.0\Ler_ano.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\ref\Ler_ano.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\Ler_ano\obj\Debug\net5.0\Ler_ano.genruntimeconfig.cache

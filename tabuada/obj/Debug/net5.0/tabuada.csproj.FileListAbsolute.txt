@@ -1,0 +1,16 @@
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\tabuada.exe
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\tabuada.deps.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\tabuada.runtimeconfig.dev.json
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\tabuada.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\ref\tabuada.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\bin\Debug\net5.0\tabuada.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.csprojAssemblyReference.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.AssemblyInfo.cs
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\ref\tabuada.dll
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.pdb
+C:\Users\quatr\OneDrive\Documentos\exercicios_10_05\tabuada\obj\Debug\net5.0\tabuada.genruntimeconfig.cache
